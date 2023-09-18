@@ -1,0 +1,3 @@
+# Conversor de Quilometros para: m,cm e ml
+n = int(input(print('Digite a Quantidade de Quilômetros que você percorreu hoje: ')))
+print('Você andou a quantidade exata de {}km \n Sua Quantidade de andanda em Metros ficará: {:.3f}m ! \n Os mesmos {:} Quilômetros andados são em Centimetros: {:.5f}cm ! \n  E convertendo {}km andados em Mílimetros ficara:{:.6f}ml ! \n Parabéns você atingiu um marco grandioso!'.format(n,n,n,n,n,n))
